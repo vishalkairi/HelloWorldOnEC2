@@ -7,4 +7,4 @@ app.get('/', (req,res)=>{
 })
 
 
-app.listen(80, ()=>console.log('Server started on 8081'));
+app.listen(8001, ()=>console.log('Server started on 8081'));
